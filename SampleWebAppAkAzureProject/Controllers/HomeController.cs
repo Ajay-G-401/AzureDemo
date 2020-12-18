@@ -15,7 +15,7 @@ namespace SampleWebAppAkAzureProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "it's Ajay Page(-|-)";
+            ViewBag.Message = "it's Ajay Page(-|-) check ";
 
             return View();
         }
